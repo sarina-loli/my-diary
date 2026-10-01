@@ -1,0 +1,15 @@
+# Diary roadmap
+- [x] Preserve existing routing, local account flow, and saved-entry storage
+- [x] Keep only the 3D diary, quotes, and Get Started experience on Home
+- [x] Make the diary page lift upward while turning
+- [x] Enhance only the Dashboard entry display with responsive 3D motion
+- [x] Add Dashboard pointer, touch, and scroll-responsive entry animation
+- [x] Add a subtle animated pink-and-cream Dashboard atmosphere
+- [x] Verify the Dashboard on phone, tablet, and desktop
+- [x] Add scroll-linked layered depth and staggered reveals to Dashboard
+- [x] Add focus and shuffle interactions without changing saved entries
+- [x] Verify Dashboard behavior on phone, tablet, and desktop
+- [x] Replace Dashboard cards and controls with a scroll-driven open diary
+- [x] Verify page turns and responsive layout on phone, tablet, and desktop
+- [x] Add animated Dashboard search by entry title or content
+- [ ] Verify filtered page turns, clearing, empty results, and responsive layout

@@ -1,0 +1,10 @@
+{
+  "//": "This file exists only so the build tooling's path-alias resolver (vite-tsconfig-paths) can map the '@/*' import alias. The project itself is plain JavaScript (.js/.jsx) — no TypeScript compilation happens.",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": ["src/**/*.js", "src/**/*.jsx"]
+}
